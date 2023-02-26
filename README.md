@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## HTML And CSS Template 3
 
 Demo
@@ -15,3 +16,7 @@ You Can Add This Add-ons To The Design
 - JavaScript Countdown => https://youtu.be/eFsiOTJrrE8
 - Animate Width On Scrolling => https://youtu.be/sbIoIKI9FOc
 - Increase Numbers On Scrolling => https://youtu.be/PLsUdgLnzgQ
+=======
+# test
+testing
+>>>>>>> 8ccca16f7797be906d65d92bd4eee60dbef80eec
